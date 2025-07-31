@@ -1,1 +1,1 @@
-# template-bower-example
+# template-bower-example.
